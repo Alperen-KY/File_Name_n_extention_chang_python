@@ -14,7 +14,6 @@ top_directory = ''
 os.chdir(top_directory) 
 general_directory = os.getcwd()
 general_directory_1 = os.listdir(general_directory)
-general_directory
 
 
 a=1
